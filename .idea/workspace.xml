@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c259f8f-0de9-401a-b434-afbac6c226d1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2108554660">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="14" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="5" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="10" />
+          <entry key="HTML" value="7" />
+          <entry key="Image" value="2" />
+          <entry key="JSON" value="2" />
+          <entry key="JavaScript" value="2" />
+          <entry key="Locale" value="1" />
+          <entry key="PHP" value="95" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="SCSS" value="7" />
+          <entry key="htaccess" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="131" />
+          <entry key="HTML" value="1" />
+          <entry key="PHP" value="5738" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/twentytwenty/template-parts/footer-menus-widgets.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="358">
+              <caret line="103" column="37" lean-forward="true" selection-start-line="103" selection-start-column="32" selection-end-line="103" selection-end-column="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/bagong-theme/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="529">
+              <caret line="37" column="43" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/bagong-theme/sidebar.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/twentytwenty/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4">
+              <caret line="356" column="16" lean-forward="true" selection-start-line="356" selection-start-column="16" selection-end-line="356" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>nav-link</find>
+      <find>deactivate</find>
+      <find>activate</find>
+      <find>sidebar</find>
+      <find>sidebar-2</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/wp-content/plugins/one-click-demo-import</dir>
+      <dir>$PROJECT_DIR$/wp-content/themes/twentytwenty</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/wp-content/themes/maki/blog-site-template" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wp-content/themes/maki/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/maki/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/maki/template-parts/content-gallery.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/maki/template-parts/content-article.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/maki/comments.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/maki/archive.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/maki/index.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/maki/template-parts/content-archive.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/maki/template-parts/content-page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/maki/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/maki/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/maki/footer.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/maki/404.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/maki/search.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/exam/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/exam/footer.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/exam/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/exam/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/exam/front-page.php" />
+        <option value="$PROJECT_DIR$/wp-config.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/maki-plugin/index.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/maki-plugin/maki-plugin.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/maki-plugin/uninstall.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/airi/home.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/airi/index.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/airi/page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/airi/single.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/maki/page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/maki/single.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/maki/front-page.php" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentytwenty/template-parts/footer-menus-widgets.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/bagong-theme/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/bagong-theme/sidebar.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/wp-content/themes/p4/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/wp-content/themes/p4/package.json" />
+      <path value="$PROJECT_DIR$/wp-content/themes/twentynineteen/package.json" />
+      <path value="$PROJECT_DIR$/wp-content/themes/twentytwenty/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="-1920" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wordpress" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordpress" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wordpress" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordpress" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wordpress" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordpress" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wordpress" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordpress" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="bagong-theme" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wordpress" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordpress" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="twentytwenty" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/wp-content/themes/p4/node_modules/eslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="options.lastSelected" value="configurable.group.tools" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.PHP" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wp-content/themes/maki/assets/js" />
+      <recent name="$PROJECT_DIR$/wp-content/themes/maki/assets" />
+      <recent name="$PROJECT_DIR$/wp-content/themes/maki" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wp-content/themes/exam/assets" />
+      <recent name="$PROJECT_DIR$/wp-content/themes/exam/assets/css" />
+      <recent name="$PROJECT_DIR$/wp-content/themes/exam" />
+      <recent name="$PROJECT_DIR$/wp-content/themes/maki/blog-site-template/js" />
+      <recent name="$PROJECT_DIR$/wp-content/themes/maki/assets/css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c259f8f-0de9-401a-b434-afbac6c226d1" name="Default Changelist" comment="" />
+      <created>1593383216244</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593383216244</updated>
+      <workItem from="1593383218855" duration="20656000" />
+      <workItem from="1593490247938" duration="5866000" />
+      <workItem from="1593563453974" duration="1185000" />
+      <workItem from="1593775337314" duration="601000" />
+      <workItem from="1598156986304" duration="6077000" />
+      <workItem from="1598233270136" duration="704000" />
+      <workItem from="1599260763149" duration="1375000" />
+      <workItem from="1599362024989" duration="141000" />
+      <workItem from="1599412559711" duration="604000" />
+      <workItem from="1599473800018" duration="901000" />
+      <workItem from="1599559190899" duration="39000" />
+      <workItem from="1600505798593" duration="506000" />
+      <workItem from="1600535598346" duration="599000" />
+      <workItem from="1600557992144" duration="167000" />
+      <workItem from="1601796615812" duration="797000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="40218000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1920" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.23056443" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.3130699" />
+      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/exam/footer.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/exam/functions.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/maki/header.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/exam/plugin/startbootstrap-freelancer-gh-pages/index.html" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/exam/header.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/exam/front-page.php" />
+    <entry file="file://$PROJECT_DIR$/wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="79" column="24" selection-start-line="79" selection-start-column="24" selection-end-line="79" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/maki-plugin/index.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/akismet/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-admin.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-cli.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1799" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-rest-api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-913">
+          <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/hello.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-181" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/one-click-demo-import/one-click-demo-import.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/one-click-demo-import/views/plugin-page.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/one-click-demo-import/inc/Downloader.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/one-click-demo-import/inc/Helpers.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/one-click-demo-import/inc/ImportActions.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/one-click-demo-import/languages/pt-ocdi.pot" />
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/maki-plugin/maki-plugin.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/maki-plugin/uninstall.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/airi/home.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/airi/index.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/maki/front-page.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/maki/screenshot.png" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/maki/page.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/maki/index.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/maki/single.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/maki/template-parts/content-article.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/maki/template-parts/content-page.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/maki/template-parts/content-archive.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/maki/blog-site-template/index.html" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/maki/functions.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/airi/page.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/airi/single.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/exam/index.php" />
+    <entry file="file://$PROJECT_DIR$/.htaccess" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/p4/resources/assets/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/p4/resources/assets/styles/common/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/p4/resources/assets/styles/layouts/_footer.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/p4/resources/assets/styles/layouts/_header.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/p4/resources/assets/styles/layouts/_pages.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/p4/resources/assets/styles/layouts/_posts.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/p4/resources/assets/styles/layouts/_sidebar.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/p4/resources/assets/styles/layouts/_tinymce.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentytwenty/template-parts/footer-menus-widgets.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="103" column="37" lean-forward="true" selection-start-line="103" selection-start-column="32" selection-end-line="103" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentytwenty/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="356" column="16" lean-forward="true" selection-start-line="356" selection-start-column="16" selection-end-line="356" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/bagong-theme/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="37" column="43" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/bagong-theme/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

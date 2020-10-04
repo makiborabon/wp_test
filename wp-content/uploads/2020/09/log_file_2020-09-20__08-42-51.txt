@@ -1,0 +1,72 @@
+
+---Downloaded files---
+The import files for: Theme Demo Content were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://wordpress.test
+Data file = /Users/borabon/LARAVEL/wordpress/wp-content/themes/corporate-club/demo/content.xml
+Widget file = /Users/borabon/LARAVEL/wordpress/wp-content/themes/corporate-club/demo/widget.wie
+Customizer file = /Users/borabon/LARAVEL/wordpress/wp-content/themes/corporate-club/demo/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+---Importing widgets---
+Primary Sidebar : 
+
+Search - No Title - Imported
+CC: Advanced Recent Posts - No Title - Imported
+woocommerce_products - Products - Site does not support widget
+Video - Business Meeting - Imported
+Categories - No Title - Imported
+Recent Posts - Posts List - Imported
+
+Front Page Widget Area : 
+
+CC: Services - Our Services - Imported
+CC: Featured Page - Why Choose Us ? - Imported
+CC: Call To Action - WE CREATE AWESOME &amp; POWERFUL THEME FOR WORDPRESS - Imported
+CC: Latest News - Latest News - Imported
+CC: Featured Page - About Us - Imported
+CC: Call To Action - Welcome to Our Corporate Club - Imported
+Gallery - Gallery - Imported
+
+Footer 1 : 
+
+Text - About Us - Imported
+CC: Social - No Title - Imported
+
+Footer 2 : 
+
+CC: Advanced Recent Posts - Recent Blog - Imported
+
+Footer 4 : 
+
+woocommerce_products - Products - Site does not support widget
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
